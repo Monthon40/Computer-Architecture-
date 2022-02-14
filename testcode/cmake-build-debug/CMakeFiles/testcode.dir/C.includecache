@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/uSeR/Desktop/testcode/main.c
+stdio.h
+-
+intrin.h
+-
+string.h
+-
+dirent.h
+-
+process.h
+-
+sys/types.h
+-
+unistd.h
+-
+

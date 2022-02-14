@@ -1,0 +1,9 @@
+echo hello world
+what is this
+place in the
+echo this is it
+!!
+echo test 123
+!!
+exit 444
+echo I want
