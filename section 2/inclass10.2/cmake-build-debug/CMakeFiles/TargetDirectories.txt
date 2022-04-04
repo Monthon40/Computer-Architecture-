@@ -1,0 +1,3 @@
+C:/Users/uSeR/Desktop/inclass10.2/cmake-build-debug/CMakeFiles/inclass10_2.dir
+C:/Users/uSeR/Desktop/inclass10.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/uSeR/Desktop/inclass10.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
